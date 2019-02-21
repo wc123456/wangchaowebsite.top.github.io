@@ -1,3 +1,4 @@
+(https://vuejs.org/images/logo.png)
 Vue:The Progressive JavaScript Framework
 --------------------
 
