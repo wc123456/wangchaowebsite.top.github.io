@@ -16,7 +16,7 @@ Installation
 Run `npm install` to install Bower, Grunt and other local dependencies.
 From `public/assets`, run `bower install` to install runtime dependencies.
 
-Run `grunt` to fire up a server at http://localhost:8888/#/
+Run `grunt` to fire up a server at http://localhost:8888/.
 
 Testing
 =======
