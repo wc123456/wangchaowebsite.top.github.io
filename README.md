@@ -1,4 +1,4 @@
-Angular Drum Machine
+Vue:The Progressive JavaScript Framework
 --------------------
 
 Just a little experiment with [vuejs](https://cn.vuejs.org
